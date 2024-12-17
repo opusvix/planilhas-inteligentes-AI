@@ -23,12 +23,11 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Stable Diffusion
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- [ebook gerado durante as aulas](https://github.com/opusvix/ebook-with-AI/blob/main/output/Prepara%C3%A7%C3%A3o%20de%20Dados%20com%20Power%20Query.pdf)
+- Pasta de Trabalho do Excel utilizada em `assets`
+- [Dashboard gerado durante as aulas](https://github.com/opusvix/ebook-with-AI/blob/main/output/Prepara%C3%A7%C3%A3o%20de%20Dados%20com%20Power%20Query.pdf)
 
 ## 🛠️ Instruções de execução
 
