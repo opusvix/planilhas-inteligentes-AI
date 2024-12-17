@@ -9,7 +9,7 @@ Nesse projeto de nível básico, vamos construir um dashboard, em Excel, de entr
 ## :abacus: Tecnologias utilizadas nesse projeto:
 
 - [ChatGPT](https://chat.openai.com/)
-- [MS Excel]([https://www.microsoft.com/en/microsoft-365/excel])
+- [MS Excel](https://www.microsoft.com/en/microsoft-365/excel/)
 
 ## :atom: Prompts:
 
