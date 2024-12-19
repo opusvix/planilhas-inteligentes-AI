@@ -27,7 +27,7 @@ ChatGPT：
 ## 📚 Materiais
 
 - [Pasta de Trabalho do Excel utilizada em](data-base/data-base.xlsx)
-- [Dashboard gerado durante as aulas](dashboard/Money App.xlsx)
+- [Dashboard gerado durante as aulas](dashboard/MoneyApp.xlsx)
 
 ## 🛠️ Instruções de execução
 
